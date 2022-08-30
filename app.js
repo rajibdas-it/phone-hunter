@@ -25,7 +25,7 @@ const displayPhones = (phones) => {
         <img src=${phone.image} class="card-img-top w-100" alt="..." />
         <div class="card-body">
             <h5 class="card-title">${phone.phone_name}</h5>
-            <button class="btn btn-outline-success w-100">See Details</button> 
+            <button class="btn btn-outline-info w-100">See Details</button> 
         </div>   
     </div>
     `;
